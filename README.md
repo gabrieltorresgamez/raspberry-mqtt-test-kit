@@ -3,6 +3,11 @@ Example for using a Raspberry Pi Zero W with sensors to collect and send data vi
 
 ![Raspberry Pi Zero W with Grove Sensors](img/Example.png)
 
+## ThingSpeak Channel
+The ThingSpeak public channel can be accessed via this link: https://thingspeak.com/channels/1997630 
+
+Here you can see how the visualisation of the recieved data can look like.
+
 ## Hardware
 * Raspberry Pi Zero W
 * Grove Base Hat
