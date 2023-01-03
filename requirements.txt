@@ -1,0 +1,5 @@
+paho-mqtt==1.6.1
+seeed-python-dht==0.0.2
+
+# for installing grove.py visit: 
+# https://github.com/Seeed-Studio/grove.py
